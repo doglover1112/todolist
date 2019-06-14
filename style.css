@@ -1,0 +1,28 @@
+.label1 {
+  display: block;
+}
+
+.label2 {
+  display: block;
+}
+
+.label3 {
+  display: block;
+}
+.label1 {
+  padding-bottom: 10px;
+}
+.label2 {
+  padding-bottom: 10px;
+}
+.label3 {
+  padding-bottom: 10px;
+}
+.article {
+  border: 10px solid black;
+  padding-left: 50px;
+  background-color: tan;
+}
+.title {
+  border: 5px solid black;
+}
